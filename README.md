@@ -37,8 +37,6 @@ Welcome to my personal portfolio website! 🎨 Built with modern technologies li
 
 ## 📂 Folder Structure
 
-## 📂 Folder Structure
-
 /public → Static assets
 /src
 /components → Reusable React components
