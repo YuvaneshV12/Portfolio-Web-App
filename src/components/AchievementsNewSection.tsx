@@ -21,7 +21,7 @@ const AchievementsNewSection = () => {
     },
     {
       title: "Secured Above 75% in All Semester",
-      image: "https://media-hosting.imagekit.io/a5d1a8f8333a4aad/80-percent-eLearning-2017.jpg?Expires=1841818965&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=q~2t7mI-VSS4R7o3u4DvHfyFcvSSf-aMTaRtYDfzvCpdPygQAnlk50hrZ3~eHfCSfVbE3rYe84aX4MyJ3XS5POqocvc63UyG1aMDjffF4TxRkIPBDXTkwXBn5S5PtBYe0RxgyUf-96i6W2vHUQpjD9QilH95-41qOgpIjs0~gP9ceGn9L~DXq0XLKZ3x4~Yv~WP207tXGSvLxfM~etNswuxS1owKH4x4GzWVqT760b5exgxfSrRTP~UhW2-wNxPQydsr~fP-3d7BHuaHZ-D0N542oqBjJlD8m0VR61ESuOeiOFB~ghWKLl2YTqEL38inSxW-YVJ59SYys2l2DiV4QQ__",
+      image: "https://i.ibb.co/Psr1bWxz/isolated-75-percent-discount-3d-260nw-505406222.jpg",
       description: "Consistently secured above 75% in all semesters, demonstrating strong academic performance and dedication."
     }
   ];

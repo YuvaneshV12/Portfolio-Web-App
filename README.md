@@ -1,73 +1,86 @@
-# Welcome to your Lovable project
+# 🚀 Yuvanesh's Developer Portfolio
 
-## Project info
+Welcome to my personal portfolio website! 🎨 Built with modern technologies like **React**, **Vite**, and **TypeScript**, it's a showcase of my projects, skills, and how you can reach out to me. 😊
 
-**URL**: https://lovable.dev/projects/a3e871c4-09f1-424d-9a36-49d059bcb867
+## 🌐 Live Demo
 
-## How can I edit this code?
+🔗 [Visit my Portfolio](https://yuvanesh-portfolio.vercel.app)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a3e871c4-09f1-424d-9a36-49d059bcb867) and start prompting.
+- ⚛️ **React** – Frontend Library
+- ⚡ **Vite** – Fast Build Tool
+- 🧱 **TypeScript** – Static Typing
+- 💄 **Tailwind CSS** – Utility-First Styling
+- 🎞️ **Framer Motion** – Smooth Animations
+- 📧 **EmailJS** – Contact Form Integration
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 📁 Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✅ Fully responsive design  
+✅ Smooth animations and transitions  
+✅ Functional contact form with EmailJS  
+✅ Clean and modern UI  
+✅ Hosted on **Vercel**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📸 Screenshots
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+![Screenshot](https://media-hosting.imagekit.io/c16a1c2c06fe4320/Screenshot%202025-05-14%20153530.png?Expires=1841824983&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EnPBJ76hUz2YQ-KmTi6KEBjnbK3BRUOiW74KXnkFUzLVeOfb62icYPY4HodM1YpuLpdIPXWdVSfltNs2wKdG6OTgLopSJcUBbdHl3-o8lklOi0DmCChpaza-MVVzDxe93D67TK9X4yFlRnkm1biQcuFptIggarOZHPjVmyG9n6IMNKUka47y7F5CPPBNh4iDWW59K9OeGvULg0UZoUjCg2c~zgV6y6FuiIkVUuo8V-180mP3pXwB9TPM6iPM2mUtE~sHYPTnL7goBgxp8MQ5IPYu5KucR5ytBIWOnUv02zSvTX1YKJUMXwPm3tT1bVoLRXSajz7TH8-HGRgfOUicYQ__)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📂 Folder Structure
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+/public → Static assets
+/src
+/components → Reusable React components
+/assets → Images and icons
+/styles → Tailwind config or global styles
+App.tsx → Main App component
+main.tsx → Entry point
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧑‍💻 Setup Instructions
+
+1. 📦 Clone the repository  
+git clone https://github.com/YuvaneshV12/Portfolio-Web-App.git
+
+2. 📁 Navigate into the folder
+
+cd Portfolio-Web-App
+
+3. 📥 Install dependencies
+
+npm install
+
+4. 🧪 Start the development server
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+5. 🌍 Open http://localhost:5173 in your browser
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📬 Contact Me
+If you'd like to work together or just say hi:
 
-**Use GitHub Codespaces**
+📧 Email: yuvaneshf23@gmail.com
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+💼 LinkedIn
 
-## What technologies are used for this project?
+🐙 GitHub
 
-This project is built with:
+💖 Special Thanks
+Thanks to all open-source contributors and inspirations across the dev community!
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a3e871c4-09f1-424d-9a36-49d059bcb867) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+🪄 License
+This project is open-source under the MIT License.

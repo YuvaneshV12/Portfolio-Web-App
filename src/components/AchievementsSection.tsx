@@ -19,7 +19,7 @@ const AchievementsSection = () => {
     },
     {
       title: "E-Commerce Book Store Using Java and Spring",
-      image: "https://media-hosting.imagekit.io/34553fbccd2b4e96/Screenshot%202025-05-14%20130352.png?Expires=1841818714&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=amL~PpMnQn4WzAKPj4MXQ4MDSe7PIIHaRkVJivUNv5oiiO39G7jCmdwSP3pIP72m9sWF0k4Nl32BTaxzX1dZakf0Cx4UWPzYWaiaitzPY5MlDCnUELAn7SSGLB6QvNVSHtc-F8WPV3cRIPIaHFQ8mazvqcc7A5BxDo6NvAXcko5bcPItX93z2Y1bYROQVmEAOrst9-uo0vcA1UASgxu7JTLf58KGJpAZ0H5Agg0wO2lH0vMwa8ZLWLvRZh93p-dVyKdtUZ0h5vOweE1y8PaitC3ya4JUa59gpJFRczgQF4soV5KyJ52vqC1OgPmurIz5wkf6JLO-9ag26LXJt1GWWQ__",
+      image: "https://i.ibb.co/84zkBWm9/Screenshot-2025-05-14-130352.png",
       description: "Developed a fully functional online book store web application that allows users to browse, search, and purchase books. Implemented a responsive and user-friendly front end using React.js, HTML, CSS, and JavaScript for smooth navigation and interactive UI.",
       codeLink: "https://github.com/YuvaneshV12/online-books-store.git",
       liveDemoLink: " http://localhost:8080/onlinebookstore/CustomerLogin.html"
