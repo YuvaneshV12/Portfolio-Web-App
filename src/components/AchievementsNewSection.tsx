@@ -11,7 +11,7 @@ const AchievementsNewSection = () => {
   const achievements: Achievement[] = [
     {
       title: "Solved LeetCode Problems",
-      image: "https://i.ibb.co/xqyyxHy7/b8225408-20cc-4164-83c9-f8e24514e22b.png",
+      image: "https://i.ibb.co/Kx6M448c/Screenshot-2025-05-27-205900.png",
       description: "Solved LeetCode problems to strengthen data structures and algorithms skills through hands-on coding challenges."
     },
     {
