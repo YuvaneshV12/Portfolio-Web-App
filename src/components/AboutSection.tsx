@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 const AboutSection = () => {
   const skills = [
     { name: "Full Stack Developer", icon: "https://i.ibb.co/Lhs8CJZH/4918049-removebg-preview.png" },
-    { name: "Frontend Web Developer", icon: "https://i.ibb.co/YFx8nvpC/49180493-removebg-preview.png" },
+    { name: "Problem Solver", icon: "https://i.ibb.co/YFx8nvpC/49180493-removebg-preview.png" },
     { name: "Java Backend Developer", icon: "https://i.ibb.co/LdDfX8HD/49180492-removebg-preview.png" },
-    { name: "Software Developer & Problem Solver", icon: "https://i.ibb.co/bM4kPB9J/49180491-removebg-preview.png" },
+    { name: "Software Developer", icon: "https://i.ibb.co/bM4kPB9J/49180491-removebg-preview.png" },
   ];
 
   return (

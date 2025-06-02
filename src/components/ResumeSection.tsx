@@ -40,7 +40,7 @@ const ResumeSection = () => {
 
   const experienceData = [
     {
-      title: "React.js Developer",
+      title: "React js Developer",
       company: "",
       period: "March 2024 - June 2024",
       duties: [
