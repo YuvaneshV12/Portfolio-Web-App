@@ -11,13 +11,6 @@ interface Achievement {
 const AchievementsSection = () => {
   const achievements: Achievement[] = [
     {
-      title: "Carbon FootPrint Tracker for Sustainable Living",
-      image: "https://i.ibb.co/MwNgpTH/b8225408-20cc-4164-83c9-f8e24514e22o.png",
-      description: "Developed a web-based Carbon Footprint Tracker that calculates and visualizes users' daily emissions, offering personalized insights and real-time data to promote eco-friendly habits, sustainable lifestyle choices, and raise awareness about environmental impact.",
-      codeLink: "https://github.com/YuvaneshV12/india-carbon-footprint-tracker.git",
-      liveDemoLink: "https://carbon-footprint-tracker-one.vercel.app/"
-    },
-    {
       title: "E-Commerce Book Store Using Java and Spring",
       image: "https://i.ibb.co/84zkBWm9/Screenshot-2025-05-14-130352.png",
       description: "Developed a fully functional online book store web application that allows users to browse, search, and purchase books. Implemented a responsive and user-friendly front end using React.js, HTML, CSS, and JavaScript for smooth navigation and interactive UI.",
@@ -25,11 +18,18 @@ const AchievementsSection = () => {
       liveDemoLink: " http://localhost:8080/onlinebookstore/CustomerLogin.html"
     },
     { 
-      title: "USSD Based Grocery Ordering Application",
-      image: "https://i.ibb.co/tPBG80s2/b8225408-20cc-4164-83c9-f8e24514e22p.jpg",
-      description: "Developed a USSD-based grocery ordering application, enabling users to browse, order, and pay for groceries through simple text commands on feature phones, ensuring accessibility, speed, user-friendly, and reliable service in low-connectivity environments.",
-      codeLink: "https://github.com/YuvaneshV12/USSD-based-Grocery-ordering-application.git",
-      liveDemoLink: "https://github.com/YuvaneshV12/USSD-based-Grocery-ordering-application.git"
+      title: "Blog Editor Web App",
+      image: "https://i.ibb.co/gLqF8QjW/Screenshot-2025-06-12-205655.png",
+      description: "Developed a blog editing web application with ReactJS, Node.js, and MongoDB, enabling users to create, edit, and manage blogs with markdown support, user authentication, and smooth performance, ensuring secure storage and deployment via Render.",
+      codeLink: "https://github.com/YuvaneshV12/Blog-Editor-Web-App.git",
+      liveDemoLink: "https://blog-editor-web-app.onrender.com"
+    },
+    {
+      title: "Carbon FootPrint Tracker for Sustainable Living",
+      image: "https://i.ibb.co/MwNgpTH/b8225408-20cc-4164-83c9-f8e24514e22o.png",
+      description: "Developed a web-based Carbon Footprint Tracker that calculates and visualizes users' daily emissions, offering personalized insights and real-time data to promote eco-friendly habits, sustainable lifestyle choices, and raise awareness about environmental impact.",
+      codeLink: "https://github.com/YuvaneshV12/india-carbon-footprint-tracker.git",
+      liveDemoLink: "https://carbon-footprint-tracker-one.vercel.app/"
     }
   ];
 

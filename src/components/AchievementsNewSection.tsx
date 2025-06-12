@@ -10,8 +10,8 @@ interface Achievement {
 const AchievementsNewSection = () => {
   const achievements: Achievement[] = [
     {
-      title: "Solved LeetCode Problems",
-      image: "https://i.ibb.co/Kx6M448c/Screenshot-2025-05-27-205900.png",
+      title: "Solved 240+ LeetCode Problems",
+      image: "https://i.ibb.co/6cqwLDNf/Screenshot-2025-06-12-210125.png",
       description: "Solved LeetCode problems to strengthen data structures and algorithms skills through hands-on coding challenges."
     },
     {
