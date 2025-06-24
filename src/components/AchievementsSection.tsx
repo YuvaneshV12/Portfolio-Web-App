@@ -11,6 +11,13 @@ interface Achievement {
 const AchievementsSection = () => {
   const achievements: Achievement[] = [
     {
+      title: "Chrono Gift Web App",
+      image: "https://i.ibb.co/8T9xdK3/Screenshot-2025-06-24-193408.png",
+      description: "Developed a digital platform that lets users upload content and set a timer and passcode to unlock it later, ensuring secure, time-based access and promoting intentional digital sharing. Gained experience in full-stack development, state management, and secure data handling practices.",
+      codeLink: "https://github.com/YuvaneshV12/chrono-gift.git",
+      liveDemoLink: "https://chrono-gift-2dlp.onrender.com/"
+    },
+    {
       title: "E-Commerce Book Store Using Java and Spring",
       image: "https://i.ibb.co/84zkBWm9/Screenshot-2025-05-14-130352.png",
       description: "Developed a fully functional online book store web application that allows users to browse, search, and purchase books. Implemented a responsive and user-friendly front end using React.js, HTML, CSS, and JavaScript for smooth navigation and interactive UI.",
@@ -23,13 +30,6 @@ const AchievementsSection = () => {
       description: "Developed a blog editing web application with ReactJS, Node.js, and MongoDB, enabling users to create, edit, and manage blogs with markdown support, user authentication, and smooth performance, ensuring secure storage and deployment via Render.",
       codeLink: "https://github.com/YuvaneshV12/Blog-Editor-Web-App.git",
       liveDemoLink: "https://blog-editor-web-app.onrender.com"
-    },
-    {
-      title: "Carbon FootPrint Tracker for Sustainable Living",
-      image: "https://i.ibb.co/MwNgpTH/b8225408-20cc-4164-83c9-f8e24514e22o.png",
-      description: "Developed a web-based Carbon Footprint Tracker that calculates and visualizes users' daily emissions, offering personalized insights and real-time data to promote eco-friendly habits, sustainable lifestyle choices, and raise awareness about environmental impact.",
-      codeLink: "https://github.com/YuvaneshV12/india-carbon-footprint-tracker.git",
-      liveDemoLink: "https://carbon-footprint-tracker-one.vercel.app/"
     }
   ];
 
