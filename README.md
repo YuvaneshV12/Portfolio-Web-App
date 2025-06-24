@@ -31,7 +31,7 @@ Welcome to my personal portfolio website! 🎨 Built with modern technologies li
 
 ## 📸 Screenshots
 
-![Screenshot](https://media-hosting.imagekit.io/c16a1c2c06fe4320/Screenshot%202025-05-14%20153530.png?Expires=1841824983&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EnPBJ76hUz2YQ-KmTi6KEBjnbK3BRUOiW74KXnkFUzLVeOfb62icYPY4HodM1YpuLpdIPXWdVSfltNs2wKdG6OTgLopSJcUBbdHl3-o8lklOi0DmCChpaza-MVVzDxe93D67TK9X4yFlRnkm1biQcuFptIggarOZHPjVmyG9n6IMNKUka47y7F5CPPBNh4iDWW59K9OeGvULg0UZoUjCg2c~zgV6y6FuiIkVUuo8V-180mP3pXwB9TPM6iPM2mUtE~sHYPTnL7goBgxp8MQ5IPYu5KucR5ytBIWOnUv02zSvTX1YKJUMXwPm3tT1bVoLRXSajz7TH8-HGRgfOUicYQ__)
+![Screenshot](https://i.ibb.co/BKcJyzDG/Screenshot-2025-06-24-203444.png)
 
 ---
 
