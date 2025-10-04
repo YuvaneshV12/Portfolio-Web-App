@@ -10,19 +10,34 @@ interface Achievement {
 const AchievementsNewSection = () => {
   const achievements: Achievement[] = [
     {
-      title: "Solved 300+ LeetCode Problems",
-      image: "https://i.ibb.co/Z1dpbpvm/Screenshot-2025-08-02-211731.png",
-      description: "Solved LeetCode problems to strengthen data structures and algorithms skills through hands-on coding challenges."
+      title: "Secured First Place in Code Master Furtura'25 Event",
+      image: "https://i.ibb.co/chVwRp9h/Whats-App-Image-2025-10-04-at-17-37-52-1f3ba001.jpg",
+      description: "Secured first place in Code Master Sairam Furtura'25 by solving real world problems with efficient solution in hackerrank."
     },
     {
-      title: "Secured Thrid Price in Code-A-Thon",
+      title: "Secured First Place in Debugging SIMATS's Event",
+      image: "https://i.ibb.co/wNdL80V5/Screenshot-20250927-204255-Gallery.jpg",
+      description: "Secured First Place in SIMATS's Vyntra'25 Debugging event by efficiently fixing errors and restructuring code under time constraints"
+    },
+    {
+      title: "Secured Third Place in Code-A-Thon Event",
       image: "https://i.ibb.co/zWqQZWh7/b8225408-20cc-4164-83c9-f8e24514e22v.jpg",
-      description: "Secured third place in Code-A-Thon by building an innovative and efficient solution under time constraints."
+      description: "Secured Third Place in Code-A-Thon by solving real-world problems with efficient, scalable solutions under strict time constraints."
+    },
+    {
+      title: "Solved 360+ LeetCode Problems",
+      image: "https://i.ibb.co/v5G5c84/Screenshot-2025-08-02-213140.png",
+      description: "Solved LeetCode problems to strengthen skills in optimized data structures and algorithmic challenges with reduced time complexity."
+    },
+    {
+      title: "Secured Third Place in Code-A-Thon Event",
+      image: "https://i.ibb.co/mCVZ09S3/Young-Turks25-Round-1-page-0001.jpg",
+      description: "Achieved 97.57 percentile in Naukri's YoungTurks challenging aptitude round, ranking 12,411 out of over 500,000 participants."
     },
     {
       title: "Secured Above 75% in All Semester",
       image: "https://i.ibb.co/Psr1bWxz/isolated-75-percent-discount-3d-260nw-505406222.jpg",
-      description: "Consistently secured above 75% in all semesters, demonstrating strong academic performance and dedication."
+      description: "Consistently secured above 75% in all semesters, demonstrating strong academic performance and unwavering dedication."
     }
   ];
 

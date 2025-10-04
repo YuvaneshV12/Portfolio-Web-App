@@ -159,7 +159,7 @@ const ResumeSection = () => {
                   pageNumber={pageNumber} 
                   renderTextLayer={false}
                   renderAnnotationLayer={false}
-                  width={window.innerWidth > 768 ? (window.innerWidth > 1280 ? 800 : 600) : 300}
+                  width={window.innerWidth > 768 ? (window.innerWidth > 1280 ? 750 : 350) : 200}
                 />
               </Document>
             </div>
