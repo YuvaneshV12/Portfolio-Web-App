@@ -25,8 +25,8 @@ const AchievementsNewSection = () => {
       description: "Secured Third Place in Code-A-Thon by solving real-world problems with efficient, scalable solutions under strict time constraints."
     },
     {
-      title: "Solved 360+ LeetCode Problems",
-      image: "https://i.ibb.co/v5G5c84/Screenshot-2025-08-02-213140.png",
+      title: "Solved 380+ LeetCode Problems",
+      image: "https://i.ibb.co/tTgd5yWX/Screenshot-2025-10-04-191022.png",
       description: "Solved LeetCode problems to strengthen skills in optimized data structures and algorithmic challenges with reduced time complexity."
     },
     {
