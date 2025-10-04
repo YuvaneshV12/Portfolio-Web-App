@@ -15,7 +15,7 @@ const AchievementsNewSection = () => {
       description: "Secured first place in Code Master Sairam Furtura'25 by solving real world problems with efficient solution in hackerrank."
     },
     {
-      title: "Secured First Place in Debugging SIMATS's Event",
+      title: "Secured First Place in Debugging Vyntra'25 Event",
       image: "https://i.ibb.co/wNdL80V5/Screenshot-20250927-204255-Gallery.jpg",
       description: "Secured First Place in SIMATS's Vyntra'25 Debugging event by efficiently fixing errors and restructuring code under time constraints"
     },
@@ -30,7 +30,7 @@ const AchievementsNewSection = () => {
       description: "Solved LeetCode problems to strengthen skills in optimized data structures and algorithmic challenges with reduced time complexity."
     },
     {
-      title: "Secured Third Place in Code-A-Thon Event",
+      title: "Achieved 97.57 Percentile in the YoungTucks Nakuri Contest",
       image: "https://i.ibb.co/mCVZ09S3/Young-Turks25-Round-1-page-0001.jpg",
       description: "Achieved 97.57 percentile in Naukri's YoungTurks challenging aptitude round, ranking 12,411 out of over 500,000 participants."
     },
