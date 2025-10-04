@@ -35,7 +35,7 @@ const ContactSection = () => {
       };
 
       const response = await emailjs.send(
-        'service_64o245f', // Your service ID
+        'service_lboxb6m', // Your service ID
         'template_sdcun9m', // Your template ID
         templateParams,
         'i3JK3S9kn4TOsflX1' // Your public key
