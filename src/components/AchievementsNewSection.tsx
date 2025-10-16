@@ -17,7 +17,12 @@ const AchievementsNewSection = () => {
     {
       title: "Secured First Place in Debugging Vyntra'25 Event",
       image: "https://i.ibb.co/wNdL80V5/Screenshot-20250927-204255-Gallery.jpg",
-      description: "Secured First Place in SIMATS's Vyntra'25 Debugging event by efficiently fixing errors and restructuring code under time constraints"
+      description: "Secured First Place in SIMATS's Vyntra'25 Debugging event by efficiently fixing errors and restructuring code under time constraints."
+    },
+    {
+      title: "Secured Second Place in Retro Code Innovatia'25 Event",
+      image: "https://i.ibb.co/kVcsq0fb/IMG-20251013-152830258-HDR-1.jpg",
+      description: "Secured second place in Retro Code Sairam Innovatia'25 by solving real world problems with team work and solving dare challenges."
     },
     {
       title: "Secured Third Place in Code-A-Thon Event",
@@ -25,19 +30,14 @@ const AchievementsNewSection = () => {
       description: "Secured Third Place in Code-A-Thon by solving real-world problems with efficient, scalable solutions under strict time constraints."
     },
     {
-      title: "Solved 380+ LeetCode Problems",
+      title: "Solved 400+ LeetCode Problems",
       image: "https://i.ibb.co/tTgd5yWX/Screenshot-2025-10-04-191022.png",
       description: "Solved LeetCode problems to strengthen skills in optimized data structures and algorithmic challenges with reduced time complexity."
     },
     {
-      title: "Achieved 97.57 Percentile in the YoungTucks Nakuri Contest",
+      title: "Achieved 97.57 Percentile in the YoungTucks Naukri Contest",
       image: "https://i.ibb.co/mCVZ09S3/Young-Turks25-Round-1-page-0001.jpg",
       description: "Achieved 97.57 percentile in Naukri's YoungTurks challenging aptitude round, ranking 12,411 out of over 500,000 participants."
-    },
-    {
-      title: "Secured Above 75% in All Semester",
-      image: "https://i.ibb.co/Psr1bWxz/isolated-75-percent-discount-3d-260nw-505406222.jpg",
-      description: "Consistently secured above 75% in all semesters, demonstrating strong academic performance and unwavering dedication."
     }
   ];
 
